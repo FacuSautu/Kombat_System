@@ -1,0 +1,15 @@
+Pagina para generar titulos:
+
+https://es.cooltext.com/
+
+Conversor de GIF a PNG:
+
+https://convertio.co/es/gif-png/
+
+Instrucciones:
+
+Kombat System es un juego de combate entre dos personajes, cada personaje 
+tiene las capacidades de golpear, bloquear, moverse atras y adelante, saltar 
+y una barra de vida y una de energìa, ademas, cada personaje cuenta con una 
+Habilidad Unica, la cual puede usarse una vez se haya cargado la barra de 
+energia a travez de golpear al contrincante.
