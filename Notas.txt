@@ -13,3 +13,8 @@ tiene las capacidades de golpear, bloquear, moverse atras y adelante, saltar
 y una barra de vida y una de energìa, ademas, cada personaje cuenta con una 
 Habilidad Unica, la cual puede usarse una vez se haya cargado la barra de 
 energia a travez de golpear al contrincante.
+
+
+NOTA 1: El problema con el tema de los imports que abren otra ventana es que en 
+	los archivos de las clases se Inicia pilas, por lo que abre otra ventana.
+	Para importar un archivo: from NombreArchivo import NombreClase
